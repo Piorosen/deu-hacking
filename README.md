@@ -1,2 +1,2 @@
-# deu-hacking
->&lt;*
+# deu-haking
+동의대학교 출석앱 해킹 및 원리에 대해서 설명함.
